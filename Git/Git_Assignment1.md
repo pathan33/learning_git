@@ -112,3 +112,14 @@ git revert
 ### All these commands were performed in repository: (https://github.com/pathan33/learning_git/)
 
 ---
+
+# Task 2:
+
+### Kindly check the repository:
+
+https://github.com/pathan33/learning_git/
+
+### Task Screenshots:
+
+### Added Collaborators:
+![git-collaborators](https://user-images.githubusercontent.com/71277160/195416926-cd878bfc-1d11-4717-8982-91225f88bf90.png)
