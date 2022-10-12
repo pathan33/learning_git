@@ -109,6 +109,6 @@ git revert
 ```
 ![git-revert](https://user-images.githubusercontent.com/43959475/193847416-2aa99197-9a12-4045-bcc9-9ef89534e5f8.jpg)
 
-### All these commands were performed in repository: (https://github.com/Samm-G/git-test)
+### All these commands were performed in repository: (https://github.com/pathan33/learning_git/)
 
 ---
