@@ -39,7 +39,7 @@
 
 Ineuron Industry-Ready Projects Task Answers:
 
-1. <a href = "https://github.com/pathan33/learning_git/blob/main/Git/Git%20Assignment-1.docx"> Git and Github</a>
+1. <a href = "https://github.com/pathan33/learning_git/blob/main/Git/"> Git and Github</a>
 
 <br>
 Last Edited on: 12/10/2022
