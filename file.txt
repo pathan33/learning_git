@@ -4,4 +4,4 @@
 
 # Trying the git fetch command in the main branch...!
 
-# Trying the git pull command...!
+# Trying the git pull command in the main branch...!
