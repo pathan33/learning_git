@@ -1,3 +1,0 @@
-# This is a new file added to be commited in the remote repository.
-
-# Trying the git fetch command
