@@ -1,0 +1,1 @@
+Adding a test_pull.txt to explain the git pull command
