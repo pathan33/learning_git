@@ -2,6 +2,6 @@
 # GIT is used a lot in the Industry.
 # Happy Learning...!
 
-# Trying the git fetch command...!
+# Trying the git fetch command in the main branch...!
 
 # Trying the git pull command...!
