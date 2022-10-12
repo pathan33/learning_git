@@ -1,0 +1,1 @@
+Adding a file to explain how git pull works in GIT.
